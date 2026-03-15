@@ -82,7 +82,7 @@ A dashboard that integrates GitHub APIs to analyze repository activity, commits,
 
 ---
 
-## ⚡ Facts About Me
+## ⚡ Fun Fact
 
 I enjoy building high-performance web systems, AI-powered applications, and cybersecurity tools that solve real-world problems.
 
