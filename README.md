@@ -19,12 +19,7 @@
   <img src="https://img.shields.io/github/stars/GOUTAM-op?style=for-the-badge&logo=github&label=Total%20Stars&color=BF00FF" alt="stars"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="130" alt="dev animation"/>
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="130" alt="coder animation"/>
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="200" alt="night coding"/>
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Hand%20Wave.gif" width="32" alt="wave"/>
-</p>
+
 
 ---
 
@@ -145,24 +140,15 @@ I enjoy building high-performance web systems, AI-powered applications, and cybe
   <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/Pavithran-P12/ReadmePacman/output/pacman-contribution-graph.svg">
 </picture>
 
-### 🌆 GitHub Skyline
+### 💻 Developer's Terminal
 <p align="center">
-<img src="https://raw.githubusercontent.com/GOUTAM-op/GOUTAM-op/output/skyline.svg"/>
+  <img src="https://img.shields.io/badge/System-Hacker%20Terminal-8b5cf6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mode-Live%20Commands-bf00ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Interface-Cyberpunk-6366f1?style=for-the-badge"/>
 </p>
 
-### 💻 Developer Terminal
 <p align="center">
-<img src="https://raw.githubusercontent.com/GOUTAM-op/GOUTAM-op/output/terminal.svg"/>
-</p>
-
-### 🧠 Skill Radar
-<p align="center">
-<img src="https://raw.githubusercontent.com/GOUTAM-op/GOUTAM-op/output/radar.svg"/>
-</p>
-
-### 🤖 AI Neural Network
-<p align="center">
-<img src="https://raw.githubusercontent.com/GOUTAM-op/GOUTAM-op/output/neural.svg"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=BF00FF&center=true&vCenter=true&width=900&lines=$+whoami;Goutam+Kaity;$+role;Full+Stack+Developer;$+skills;React+Node+Python+Cybersecurity;$+projects;AI+Systems+%7C+Web+Apps+%7C+Security+Tools;$+status;Building+Futuristic+Systems..."/>
 </p>
 
 
