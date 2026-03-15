@@ -99,22 +99,22 @@ I enjoy building high-performance web systems, AI-powered applications, and cybe
 ## <a id="dashboard"></a>GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GOUTAM-op&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=GOUTAM-op&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GOUTAM-op&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=GOUTAM-op&theme=midnight-purple&hide_border=true" alt="streak"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOUTAM-op&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GOUTAM-op&theme=tokyonight&utcOffset=5.5" alt="productive time"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOUTAM-op&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="top langs"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GOUTAM-op&theme=aura&utcOffset=5.5&bg_color=0d001a" alt="productive time"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GOUTAM-op&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GOUTAM-op&theme=react-dark&color=bf00ff&line=bf00ff&point=bf00ff&area=true&hide_border=true" alt="activity graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GOUTAM-op&theme=tokyonight" alt="repos per language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GOUTAM-op&theme=tokyonight" alt="most commit language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GOUTAM-op&theme=aura" alt="repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GOUTAM-op&theme=aura" alt="most commit language"/>
 </p>
 
 ---
@@ -125,6 +125,20 @@ I enjoy building high-performance web systems, AI-powered applications, and cybe
 </p>
 
 ---
+
+## Highlights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GOUTAM-op&theme=aura" alt="stats card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GOUTAM-op&theme=aura" alt="profile card"/>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
+</p>
+
+---
+
 ## <a id="animations"></a>Fun Folds
 
 ### 👾 Pacman Game
