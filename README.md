@@ -53,7 +53,7 @@
 </table>
 
 - All of my projects are available at: <a href="https://github.com/GOUTAM-op">github.com/GOUTAM-op</a>  
-- How to reach me: <a href="mailto:goutamkaity7@gmail.com">goutamkaity7@gmail.com</a>
+- How to reach me: <a href="mailto:goutamkaity142@gmail.com">goutamkaity7@gmail.com</a>
 
 ---
 
@@ -91,37 +91,20 @@ I enjoy building high-performance web systems, AI-powered applications, and cybe
 ## <a id="stack"></a>Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,python,django,mongodb,mysql,git,github&perline=8" alt="skill icons"/>
-</p>
-
----
+<img src="https://skillicons.dev/icons?i=python,r,js,ts,java,cpp,c,bash,powershell,go,rust,html,css,react,nodejs,nextjs,flask,django,fastapi,tensorflow,pytorch,opencv,mysql,postgres,mongodb,redis,docker,kubernetes,terraform,ansible,aws,azure,gcp,linux,ubuntu,debian,kali,git,github,gitlab,jenkins,prometheus,grafana,unreal,blender,unity&perline=8" alt="Professional Tech Stack"/>
 
 ## <a id="dashboard"></a>GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GOUTAM-op&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=GOUTAM-op&theme=midnight-purple&hide_border=true" alt="streak"/>
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOUTAM-op&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="top langs"/>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GOUTAM-op&theme=aura&utcOffset=5.5&bg_color=0d001a" alt="productive time"/>
-</p>
+  <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GOUTAM-op&theme=aura" alt="stats"/>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GOUTAM-op&theme=react-dark&color=bf00ff&line=bf00ff&point=bf00ff&area=true&hide_border=true" alt="activity graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GOUTAM-op&theme=aura" alt="repos per language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GOUTAM-op&theme=aura" alt="most commit language"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GOUTAM-op&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GOUTAM-op&theme=aura"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GOUTAM-op&theme=aura"/>
 </p>
 
 ---
@@ -142,12 +125,6 @@ I enjoy building high-performance web systems, AI-powered applications, and cybe
 ## <a id="animations"></a>Fun Folds
 
 ### 👾 Pacman Game
-<p align="center">
-  <img src="https://img.shields.io/badge/Game-Pacman%20Contribution-8b5cf6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Theme-Neon%20Purple-bf00ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Auto%20Update-12h%20Workflow-6366f1?style=for-the-badge"/>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pavithran-P12/ReadmePacman/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pavithran-P12/ReadmePacman/output/pacman-contribution-graph.svg">
@@ -155,11 +132,7 @@ I enjoy building high-performance web systems, AI-powered applications, and cybe
 </picture>
 
 ### 💻 Developer's Terminal
-<p align="center">
-  <img src="https://img.shields.io/badge/System-Hacker%20Terminal-8b5cf6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mode-Live%20Commands-bf00ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Interface-Cyberpunk-6366f1?style=for-the-badge"/>
-</p>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=BF00FF&center=true&vCenter=true&width=900&lines=$+whoami;Goutam+Kaity;$+role;Full+Stack+Developer;$+skills;React+Node+Python+Cybersecurity;$+projects;AI+Systems+%7C+Web+Apps+%7C+Security+Tools;$+status;Building+Futuristic+Systems..."/>
