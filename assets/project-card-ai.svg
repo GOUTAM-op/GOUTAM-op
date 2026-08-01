@@ -40,7 +40,7 @@
     <text x="200" y="166" text-anchor="middle" fill="#8fffe0">scikit-learn</text>
   </g>
 
-  <text x="24" y="205" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#00e5ff" font-weight="700">🔗 View Repository →</text>
+  <text x="24" y="205" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#00e5ff" font-weight="700" href="https://github.com/GOUTAM-op/AI_Career_Guidance">🔗 View Repository →</text>
 
   <filter id="cardBlur_clip1" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="16"/></filter>
 
