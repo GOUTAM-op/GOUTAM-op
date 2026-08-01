@@ -9,7 +9,7 @@
 <br/><br/>
 
 <a href="https://goutam-op.github.io"><img src="https://img.shields.io/badge/Portfolio-04050f?style=for-the-badge&logo=vercel&logoColor=00E5FF"/></a>
-<a href="https://linkedin.com/in/goutam-kaity-654792274"><img src="https://img.shields.io/badge/LinkedIn-04050f?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
+<a href="https://linkedin.com/in/goutam-kaity"><img src="https://img.shields.io/badge/LinkedIn-04050f?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
 <a href="mailto:goutamkaity142@gmail.com"><img src="https://img.shields.io/badge/Email-04050f?style=for-the-badge&logo=gmail&logoColor=FF2FB2"/></a>
 <a href="https://x.com/GoutamKaity"><img src="https://img.shields.io/badge/X-04050f?style=for-the-badge&logo=x&logoColor=ffffff"/></a>
 <a href="https://github.com/GOUTAM-op"><img src="https://img.shields.io/badge/GitHub-04050f?style=for-the-badge&logo=github&logoColor=7B2FF7"/></a>
@@ -154,8 +154,8 @@
 
 <div align="center">
 
-<a href="mailto:goutamkaity7@gmail.com"><img src="https://img.shields.io/badge/Email-04050f?style=for-the-badge&logo=gmail&logoColor=FF2FB2"/></a>
-<a href="https://linkedin.com/in/goutam-kaity-654792274"><img src="https://img.shields.io/badge/LinkedIn-04050f?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
+<a href="mailto:goutamkaity142@gmail.com"><img src="https://img.shields.io/badge/Email-04050f?style=for-the-badge&logo=gmail&logoColor=FF2FB2"/></a>
+<a href="https://linkedin.com/in/goutam-kaity"><img src="https://img.shields.io/badge/LinkedIn-04050f?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
 <a href="https://goutam-op.github.io"><img src="https://img.shields.io/badge/Portfolio-04050f?style=for-the-badge&logo=vercel&logoColor=7B2FF7"/></a>
 <a href="https://x.com/GoutamKaity"><img src="https://img.shields.io/badge/X-04050f?style=for-the-badge&logo=x&logoColor=ffffff"/></a>
 
