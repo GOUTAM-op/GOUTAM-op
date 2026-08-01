@@ -1,0 +1,126 @@
+<svg width="520" height="520" viewBox="0 0 520 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="coreGrad2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e8fffe"/>
+      <stop offset="45%" stop-color="#00e5ff"/>
+      <stop offset="100%" stop-color="#0d3a66"/>
+    </radialGradient>
+    <radialGradient id="bgGlow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#12123a" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#04050f" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="nodeGlow2" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="coreGlow2" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="11" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <circle cx="260" cy="260" r="240" fill="url(#bgGlow2)"/>
+
+  <!-- pulsing outer aura -->
+  <circle cx="260" cy="260" r="250" fill="none" stroke="#00e5ff" stroke-width="1" opacity="0.15">
+    <animate attributeName="r" values="235;255;235" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.05;0.2;0.05" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- sparkle particles -->
+  <g fill="#ffffff">
+    <circle cx="70" cy="90" r="1.3"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="450" cy="120" r="1.4"><animate attributeName="opacity" values="1;0.1;1" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="420" cy="420" r="1.2"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="60" cy="400" r="1.3"><animate attributeName="opacity" values="1;0.2;1" dur="3.4s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- orbit rings -->
+  <ellipse cx="260" cy="260" rx="225" ry="75" fill="none" stroke="#00e5ff" stroke-width="1" opacity="0.3">
+    <animateTransform attributeName="transform" type="rotate" values="0 260 260;360 260 260" dur="20s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="260" cy="260" rx="175" ry="175" fill="none" stroke="#ff2fb2" stroke-width="1" opacity="0.22">
+    <animateTransform attributeName="transform" type="rotate" values="0 260 260;-360 260 260" dur="28s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="260" cy="260" rx="135" ry="235" fill="none" stroke="#7b2ff7" stroke-width="1" opacity="0.28">
+    <animateTransform attributeName="transform" type="rotate" values="0 260 260;360 260 260" dur="24s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- glowing hex core -->
+  <g filter="url(#coreGlow2)">
+    <polygon points="260,212 302,236 302,284 260,308 218,284 218,236" fill="url(#coreGrad2)">
+      <animateTransform attributeName="transform" type="rotate" values="0 260 260;360 260 260" dur="30s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.85;1;0.85" dur="3s" repeatCount="indefinite"/>
+    </polygon>
+  </g>
+  <circle cx="260" cy="260" r="46" fill="none" stroke="#8ff5ff" stroke-width="1.5" opacity="0.4">
+    <animate attributeName="r" values="42;56;42" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0;0.5" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="260" y="266" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700" fill="#04050f">DEV</text>
+
+  <path id="orbitA2" d="M 35,260 A 225,75 0 1 1 485,260 A 225,75 0 1 1 35,260" fill="none" opacity="0"/>
+  <path id="orbitB2" d="M 85,260 A 175,175 0 1 1 435,260 A 175,175 0 1 1 85,260" fill="none" opacity="0"/>
+  <path id="orbitC2" d="M 125,260 A 135,235 0 1 1 395,260 A 135,235 0 1 1 125,260" fill="none" opacity="0"/>
+
+  <g filter="url(#nodeGlow2)">
+    <g>
+      <polygon points="0,-17 15,-8 15,8 0,17 -15,8 -15,-8" fill="#0a0a20" stroke="#f7df1e" stroke-width="2"/>
+      <text text-anchor="middle" dy="4" font-size="9" font-weight="700" fill="#f7df1e">JS</text>
+      <animateMotion dur="10s" repeatCount="indefinite" rotate="auto"><mpath href="#orbitA2"/></animateMotion>
+    </g>
+    <g>
+      <polygon points="0,-17 15,-8 15,8 0,17 -15,8 -15,-8" fill="#0a0a20" stroke="#00e5ff" stroke-width="2"/>
+      <text text-anchor="middle" dy="4" font-size="9" font-weight="700" fill="#8ff5ff">PY</text>
+      <animateMotion dur="10s" begin="-5s" repeatCount="indefinite" rotate="auto"><mpath href="#orbitA2"/></animateMotion>
+    </g>
+
+    <g>
+      <polygon points="0,-16 14,-8 14,8 0,16 -14,8 -14,-8" fill="#0a0a20" stroke="#ff2fb2" stroke-width="2"/>
+      <text text-anchor="middle" dy="4" font-size="8.5" font-weight="700" fill="#ff8fe0">RE</text>
+      <animateMotion dur="14s" begin="0s" repeatCount="indefinite" rotate="auto"><mpath href="#orbitB2"/></animateMotion>
+    </g>
+    <g>
+      <polygon points="0,-16 14,-8 14,8 0,16 -14,8 -14,-8" fill="#0a0a20" stroke="#00ffc6" stroke-width="2"/>
+      <text text-anchor="middle" dy="4" font-size="8.5" font-weight="700" fill="#8fffe0">NO</text>
+      <animateMotion dur="14s" begin="-7s" repeatCount="indefinite" rotate="auto"><mpath href="#orbitB2"/></animateMotion>
+    </g>
+    <g>
+      <polygon points="0,-16 14,-8 14,8 0,16 -14,8 -14,-8" fill="#0a0a20" stroke="#7b2ff7" stroke-width="2"/>
+      <text text-anchor="middle" dy="4" font-size="8.5" font-weight="700" fill="#c9a7ff">SQL</text>
+      <animateMotion dur="14s" begin="-3.5s" repeatCount="indefinite" rotate="auto"><mpath href="#orbitB2"/></animateMotion>
+    </g>
+
+    <g>
+      <polygon points="0,-15 13,-7 13,7 0,15 -13,7 -13,-7" fill="#0a0a20" stroke="#5b8def" stroke-width="2"/>
+      <text text-anchor="middle" dy="4" font-size="8" font-weight="700" fill="#a9c3ff">C++</text>
+      <animateMotion dur="18s" begin="0s" repeatCount="indefinite" rotate="auto"><mpath href="#orbitC2"/></animateMotion>
+    </g>
+    <g>
+      <polygon points="0,-15 13,-7 13,7 0,15 -13,7 -13,-7" fill="#0a0a20" stroke="#ff6b6b" stroke-width="2"/>
+      <text text-anchor="middle" dy="4" font-size="8" font-weight="700" fill="#ff9a9a">GIT</text>
+      <animateMotion dur="18s" begin="-9s" repeatCount="indefinite" rotate="auto"><mpath href="#orbitC2"/></animateMotion>
+    </g>
+    <g>
+      <polygon points="0,-15 13,-7 13,7 0,15 -13,7 -13,-7" fill="#0a0a20" stroke="#ff8a3d" stroke-width="2"/>
+      <text text-anchor="middle" dy="4" font-size="7.5" font-weight="700" fill="#ffb37a">PM</text>
+      <animateMotion dur="18s" begin="-4.5s" repeatCount="indefinite" rotate="auto"><mpath href="#orbitC2"/></animateMotion>
+    </g>
+  </g>
+
+  <!-- extra sparkle layer -->
+  <g fill="#ffffff">
+    <circle cx="260" cy="40" r="1.1"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="470" r="1.2"><animate attributeName="opacity" values="1;0.15;1" dur="2.7s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- faint trailing echoes for a motion-trail feel -->
+  <g opacity="0.25">
+    <circle r="6" fill="#00e5ff">
+      <animateMotion dur="10s" begin="-0.3s" repeatCount="indefinite"><mpath href="#orbitA2"/></animateMotion>
+    </circle>
+    <circle r="6" fill="#ff2fb2">
+      <animateMotion dur="14s" begin="-0.3s" repeatCount="indefinite"><mpath href="#orbitB2"/></animateMotion>
+    </circle>
+  </g>
+</svg>

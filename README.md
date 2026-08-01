@@ -1,171 +1,183 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A001F,20:33004D,40:550099,70:8F00FF,100:BF00FF&height=260&section=header&text=Goutam%20Kaity&fontSize=46&fontAlignY=38&fontColor=ffffff&animation=twinkling&font=Geist&desc=Web%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Cybersecurity&descAlignY=60"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=29&pause=550&duration=2600&color=BF00FF&center=true&vCenter=true&width=980&lines=Building+immersive+3D+Portfolios;Developing+AI+Tools;Exploring+Cybersecurity+Systems;Crafting+Modern+Web+Solutions" alt="typing animation"/>
-</p>
+<img width="100%" src="assets/hero-banner.svg" alt="Goutam Kaity — animated aurora hero banner"/>
 
-<p align="center">
-  <a href="#stack"><img src="https://img.shields.io/badge/Stack-View-8A2BE2?style=for-the-badge" alt="stack"/></a>
-  <a href="#dashboard"><img src="https://img.shields.io/badge/Dashboard-Live%20Stats-9400D3?style=for-the-badge" alt="dashboard"/></a>
-  <a href="#animations"><img src="https://img.shields.io/badge/Animations-Enabled-9932CC?style=for-the-badge" alt="animations"/></a>
-  <a href="#connect"><img src="https://img.shields.io/badge/Connect-Lets%20Talk-BF00FF?style=for-the-badge" alt="connect"/></a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;Building+with+Python+%2B+JavaScript;AI+%2F+ML+Enthusiast;Cybersecurity+Tinkerer;Always+Shipping+Something+New" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GOUTAM-op&label=Profile%20Views&color=9400D3&style=for-the-badge" alt="views"/>
-  <img src="https://img.shields.io/github/followers/GOUTAM-op?style=for-the-badge&logo=github&label=Followers&color=9932CC" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/GOUTAM-op?style=for-the-badge&logo=github&label=Total%20Stars&color=BF00FF" alt="stars"/>
-</p>
+<br/><br/>
 
+<a href="https://goutam-op.github.io"><img src="https://img.shields.io/badge/Portfolio-04050f?style=for-the-badge&logo=vercel&logoColor=00E5FF"/></a>
+<a href="https://linkedin.com/in/goutam-kaity-654792274"><img src="https://img.shields.io/badge/LinkedIn-04050f?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
+<a href="mailto:goutamkaity7@gmail.com"><img src="https://img.shields.io/badge/Email-04050f?style=for-the-badge&logo=gmail&logoColor=FF2FB2"/></a>
+<a href="https://x.com/GoutamKaity"><img src="https://img.shields.io/badge/X-04050f?style=for-the-badge&logo=x&logoColor=ffffff"/></a>
+<a href="https://github.com/GOUTAM-op"><img src="https://img.shields.io/badge/GitHub-04050f?style=for-the-badge&logo=github&logoColor=7B2FF7"/></a>
 
+</div>
 
----
+<br/>
+<img width="100%" src="assets/wave-divider.svg" alt="divider"/>
 
-## About Me
+## 👋 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=700&color=BF00FF&center=true&vCenter=true&width=980&lines=Currently+focusing+on+AI+and+Web+solutions;Developing+Cybersecurity+tools;Crafting+3D+Portfolios;Open+to+collaboration+on+innovative+tech;Trying+to+dive+deep+into+Cybersecurity;Moving+hands+towards+Game+Industry" alt="about typing animation"/>
-</p>
+```python
+class GoutamKaity:
+    def __init__(self):
+        self.role = "CS Undergraduate @ ARYAN Institute of Engineering and Technology"
+        self.focus = ["Web Development", "AI / Machine Learning", "Cybersecurity"]
+        self.currently_building = "AI-powered tools and full-stack web apps"
+        self.looking_for = "Web Developer / Software Developer Internship"
+        self.location = "Bhubaneswar, Odisha, India"
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Current%20Focus-Web%20Development%20,%20Cybersecurity-9932CC?style=for-the-badge" alt="focus web"/>
-  <img src="https://img.shields.io/badge/Building-Cybersecurity%20Tools-8A2BE2?style=for-the-badge" alt="ai tools"/>
-  <img src="https://img.shields.io/badge/Exploring-Game%20Development-BF00FF?style=for-the-badge" alt="cyber"/>
-</p>
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something!")
+```
 
-<table>
-  <tr>
-    <td width="56%">
+- 🎓 B.Tech in Computer Science, ARYAN Institute of Engineering and Technology (2023 – 2027)
+- 💼 Previously: AI Developer Intern @ **Acmegrade**, Web Developer Intern @ **VidyaVistara**
+- 🧠 Interests: AI/ML, cybersecurity tooling, responsive web apps, REST APIs
+- 📍 Based in Odisha, India · 📫 **goutamkaity7@gmail.com**
 
-- Working on **Web Development**, **AI tools**, and **Cybersecurity systems**.  
-- Learning **3D portfolios**, **modern web frameworks**, and **machine learning**.  
-- Open to collaboration on **AI, web, and cybersecurity projects**.  
-- Aiming to create **futuristic and secure web solutions**.  
-- Student & Tech Enthusiast.
+<br/>
+<img width="100%" src="assets/wave-divider.svg" alt="divider"/>
 
-    </td>
-    <td width="44%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GOUTAM-op&theme=tokyonight" alt="profile details"/>
-    </td>
-  </tr>
-</table>
+## 🛠️ Tech Stack
 
-- All of my projects are available at: <a href="https://github.com/GOUTAM-op">github.com/GOUTAM-op</a>  
-- How to reach me: <a href="mailto:goutamkaity142@gmail.com">goutamkaity7@gmail.com</a>
+**Programming**
+<br/>
+<img src="https://img.shields.io/badge/Python-04050f?style=flat-square&logo=python&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/JavaScript-04050f?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/C-04050f?style=flat-square&logo=c&logoColor=A9C3FF"/>
+<img src="https://img.shields.io/badge/C++-04050f?style=flat-square&logo=c%2B%2B&logoColor=FF2FB2"/>
 
----
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-04050f?style=flat-square&logo=html5&logoColor=FF2FB2"/>
+<img src="https://img.shields.io/badge/CSS3-04050f?style=flat-square&logo=css3&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/React-04050f?style=flat-square&logo=react&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-04050f?style=flat-square&logo=tailwindcss&logoColor=00FFC6"/>
 
-## 🚀 Recent Projects
+**Backend & Database**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-04050f?style=flat-square&logo=node.js&logoColor=00FFC6"/>
+<img src="https://img.shields.io/badge/MySQL-04050f?style=flat-square&logo=mysql&logoColor=7B2FF7"/>
+<img src="https://img.shields.io/badge/MongoDB-04050f?style=flat-square&logo=mongodb&logoColor=00FFC6"/>
 
-### 🔹 AI-Powered Career Guidance System
-A machine learning application that analyzes student skills, interests, and academic performance to recommend personalized career paths. Includes data preprocessing, model training, and an interactive web dashboard.
+**AI / ML**
+<br/>
+<img src="https://img.shields.io/badge/NumPy-04050f?style=flat-square&logo=numpy&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Pandas-04050f?style=flat-square&logo=pandas&logoColor=7B2FF7"/>
+<img src="https://img.shields.io/badge/scikit--learn-04050f?style=flat-square&logo=scikit-learn&logoColor=FF2FB2"/>
 
-### 🔹 Password Security & Credential Analysis Toolkit
-A cybersecurity toolkit designed to simulate password attack techniques such as dictionary and brute-force attacks in a controlled environment to analyze password strength and improve authentication policies.
+**Cybersecurity & Tools**
+<br/>
+<img src="https://img.shields.io/badge/Kali_Linux-04050f?style=flat-square&logo=kalilinux&logoColor=A9C3FF"/>
+<img src="https://img.shields.io/badge/Git-04050f?style=flat-square&logo=git&logoColor=FF2FB2"/>
+<img src="https://img.shields.io/badge/GitHub-04050f?style=flat-square&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/VS_Code-04050f?style=flat-square&logo=visualstudiocode&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Postman-04050f?style=flat-square&logo=postman&logoColor=FF6C37"/>
 
-### 🔹 Futuristic 3D Developer Portfolio
-An immersive portfolio website featuring modern UI/UX design, animated backgrounds, and scroll-driven interactive elements to showcase projects and technical skills.
+<br/>
+<img width="100%" src="assets/wave-divider.svg" alt="divider"/>
 
-### 🔹 Real-Time Cyber Attack Visualization Dashboard
-A web application that visualizes simulated cyber attack traffic on a global map using real-time data streams and dynamic visualization technologies.
+## 🪐 Interactive Skills Orbit
 
-### 🔹 Secure Authentication System
-A production-level authentication system implementing password hashing, JWT authentication, role-based access control, and secure API practices for modern web applications.
+<div align="center">
+<img width="420" src="assets/skills-orbit.svg" alt="Rotating holographic skills orbit"/>
+<br/>
+<sub>Hand-built animated SVG — hexagonal nodes orbiting a glowing core, three independent rotation speeds for depth.</sub>
+</div>
 
-### 🔹 AI Document Analyzer
-A natural language processing tool that automatically summarizes documents, extracts key insights, and classifies content to improve information analysis and productivity.
+<br/>
+<img width="100%" src="assets/wave-divider.svg" alt="divider"/>
 
-### 🔹 Developer Productivity Dashboard
-A dashboard that integrates GitHub APIs to analyze repository activity, commits, and development metrics to help developers track productivity and workflow efficiency.
+## 📊 GitHub Stats
 
----
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GOUTAM-op&show_icons=true&theme=radical&hide_border=true&bg_color=04050f&title_color=00E5FF&icon_color=FF2FB2&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOUTAM-op&layout=compact&theme=radical&hide_border=true&bg_color=04050f&title_color=00E5FF&text_color=c9d1d9" width="35%"/>
+</div>
 
-## ⚡ Fun Fact
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=GOUTAM-op&theme=nightowl&hide_border=true&background=04050f&ring=00E5FF&fire=FF2FB2&currStreakLabel=00E5FF" width="70%"/>
+</div>
 
-I enjoy building high-performance web systems, AI-powered applications, and cybersecurity tools that solve real-world problems.
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GOUTAM-op&theme=react-dark&bg_color=04050f&color=00E5FF&line=FF2FB2&point=ffffff&hide_border=true" width="90%"/>
+</div>
 
----
+<br/>
 
-## <a id="stack"></a>Stack
+## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,r,js,ts,java,cpp,c,bash,powershell,go,rust,html,css,react,nodejs,nextjs,flask,django,fastapi,tensorflow,pytorch,opencv,mysql,postgres,mongodb,redis,docker,kubernetes,terraform,ansible,aws,azure,gcp,linux,ubuntu,debian,kali,git,github,gitlab,jenkins,prometheus,grafana,unreal,blender,unity&perline=8" alt="Professional Tech Stack"/>
+Generated automatically once a day by the GitHub Action in `.github/workflows/snake.yml` (see setup guide).
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Engineering-9932CC?style=flat-square" alt="ai"/>
-  <img src="https://img.shields.io/badge/Data-Analysis-8A2BE2?style=flat-square" alt="data analysis"/>
-  <img src="https://img.shields.io/badge/Cyber-Security-BF00FF?style=flat-square" alt="cyber"/>
-  <img src="https://img.shields.io/badge/UI%2FUX-Dev%20Ops-8A2BE2?style=flat-square" alt="uiux"/>
-  <img src="https://img.shields.io/badge/Game-Development-BF00FF?style=flat-square" alt="game"/>
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/GOUTAM-op/GOUTAM-op/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</div>
 
-## <a id="dashboard"></a>GitHub Stats
+<br/>
+<img width="100%" src="assets/wave-divider.svg" alt="divider"/>
 
-<p align="center">
-  <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GOUTAM-op&theme=aura" alt="stats"/>
-   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GOUTAM-op&theme=tokyonight&utcOffset=5.5" alt="productive time"/>
- </p>  
+## 🏆 Trophies
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GOUTAM-op&theme=react-dark&color=bf00ff&line=bf00ff&point=bf00ff&area=true&hide_border=true" alt="activity graph"/>
-  
-</p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=GOUTAM-op&theme=radical&no-frame=true&row=1&column=6&margin-w=8" width="95%"/>
+</div>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GOUTAM-op&theme=aura"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GOUTAM-op&theme=aura"/>
-</p>
+<br/>
+<img width="100%" src="assets/wave-divider.svg" alt="divider"/>
 
----
+## 🚀 Featured Projects
 
-## Highlights
+<div align="center">
+<img src="assets/project-card-ai.svg" width="32%" alt="AI Career Guidance System project card"/>
+<img src="assets/project-card-security.svg" width="32%" alt="Password Security Testing Toolkit project card"/>
+<img src="assets/project-card-elearning.svg" width="32%" alt="E-Learning Platform project card"/>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GOUTAM-op&theme=aura" alt="stats card"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GOUTAM-op&theme=aura" alt="profile card"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
-</p>
+[AI-CareerGuidance](https://github.com/GOUTAM-op/AI-CareerGuidance) · [Password-Testing](https://github.com/GOUTAM-op/Password-Testing) · [E-Learning-Platform](https://github.com/GOUTAM-op/E-Learning-Platform)
 
----
+<sub>Update these three links to match your exact repository URLs.</sub>
+</div>
 
-## <a id="animations"></a>Fun Folds
+<br/>
+<img width="100%" src="assets/wave-divider.svg" alt="divider"/>
 
-### 👾 Pacman Game
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pavithran-P12/ReadmePacman/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pavithran-P12/ReadmePacman/output/pacman-contribution-graph.svg">
-  <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/Pavithran-P12/ReadmePacman/output/pacman-contribution-graph.svg">
-</picture>
+## 🎓 Certifications
 
-### 💻 Developer's Terminal
+- **Full Stack Web Development Certification** — Coursera
+  HTML5, CSS3, JavaScript, responsive design, frontend development
+- **AI & Machine Learning Training** — Coursera & Google
+  NumPy, Pandas, Scikit-learn, ML workflow fundamentals
 
+<br/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=BF00FF&center=true&vCenter=true&width=900&lines=$+whoami;Goutam+Kaity;$+role;Full+Stack+Developer;$+skills;React+Node+Python+Cybersecurity;$+projects;AI+Systems+%7C+Web+Apps+%7C+Security+Tools;$+status;Building+Futuristic+Systems..."/>
-</p>
+## 🌐 Languages
 
+`English` · `Hindi` · `Odia` · `Bengali`
 
----
+<br/>
+<img width="100%" src="assets/wave-divider.svg" alt="divider"/>
 
-## <a id="connect"></a>Connect
+## 📬 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/GOUTAM-op">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="[github](https://github.com/GOUTAM-op)"/>
-  </a>
-  <a href="mailto:goutamkaity7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-BF00FF?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/goutam-kaity-654792274">
-    <img src="https://img.shields.io/badge/LinkedIn-9932CC?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF00FF,40:8A2BE2,70:550099,100:1A001F&height=140&section=footer"/>
-</p>
+<a href="mailto:goutamkaity7@gmail.com"><img src="https://img.shields.io/badge/Email-04050f?style=for-the-badge&logo=gmail&logoColor=FF2FB2"/></a>
+<a href="https://linkedin.com/in/goutam-kaity-654792274"><img src="https://img.shields.io/badge/LinkedIn-04050f?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
+<a href="https://goutam-op.github.io"><img src="https://img.shields.io/badge/Portfolio-04050f?style=for-the-badge&logo=vercel&logoColor=7B2FF7"/></a>
+<a href="https://x.com/GoutamKaity"><img src="https://img.shields.io/badge/X-04050f?style=for-the-badge&logo=x&logoColor=ffffff"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=GOUTAM-op&style=for-the-badge&color=04050f&label=Profile+Views&labelColor=04050f"/>
+
+<br/><br/>
+
+<img width="100%" src="assets/footer-panel.svg" alt="Thanks for visiting — animated footer"/>
+
+</div>

@@ -1,0 +1,32 @@
+<svg width="1200" height="50" viewBox="0 0 1200 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#00e5ff" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#ff2fb2" stop-opacity="0.9"/>
+      <stop offset="75%" stop-color="#7b2ff7" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#7b2ff7" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="waveGlow" x="-40%" y="-200%" width="180%" height="500%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <path fill="none" stroke="url(#waveGrad2)" stroke-width="2.5" filter="url(#waveGlow)">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite"
+      values="
+        M0,25 C150,8 300,42 450,25 C600,8 750,42 900,25 C1000,12 1100,38 1200,25;
+        M0,25 C150,42 300,8 450,25 C600,42 750,8 900,25 C1000,38 1100,12 1200,25;
+        M0,25 C150,8 300,42 450,25 C600,8 750,42 900,25 C1000,12 1100,38 1200,25
+      "/>
+  </path>
+
+  <circle r="3" fill="#ffffff" filter="url(#waveGlow)">
+    <animateMotion dur="3.5s" repeatCount="indefinite" path="M0,25 C150,8 300,42 450,25 C600,8 750,42 900,25 C1000,12 1100,38 1200,25"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.2" fill="#8ff5ff" filter="url(#waveGlow)">
+    <animateMotion dur="3.5s" begin="-1.7s" repeatCount="indefinite" path="M0,25 C150,8 300,42 450,25 C600,8 750,42 900,25 C1000,12 1100,38 1200,25"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="3.5s" begin="-1.7s" repeatCount="indefinite"/>
+  </circle>
+</svg>
