@@ -25,6 +25,8 @@
 <img width="100%" src="assets/about-code-card.svg" alt="Animated Python code card introducing Goutam Kaity"/>
 </div>
 
+</br>
+
 - 🎓 B.Tech in Computer Science, ARYAN Institute of Engineering and Technology (2023 – 2027)
 - 💼 Previously: AI Developer Intern @ **Acmegrade**, Web Developer Intern @ **VidyaVistara**
 - 🧠 Interests: AI/ML, cybersecurity tooling, responsive web apps, REST APIs
@@ -77,58 +79,18 @@
 <div align="center">
 <img width="420" src="assets/skills-orbit.svg" alt="Rotating holographic skills orbit"/>
 <br/>
-<sub>Hand-built animated SVG — hexagonal nodes orbiting a glowing core, three independent rotation speeds for depth.</sub>
+
 </div>
 
 <br/>
 <img width="100%" src="assets/wave-divider.svg" alt="divider"/>
 
-## ⚡ Fun Fact
-
-I enjoy building high-performance web systems, AI-powered applications, and cybersecurity tools that solve real-world problems.
-
-<br/>
-<img width="100%" src="assets/wave-divider.svg" alt="divider"/>
-
-## <a id="stack"></a>Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,r,js,ts,java,cpp,c,bash,powershell,go,rust,html,css,react,nodejs,nextjs,flask,django,fastapi,tensorflow,pytorch,opencv,mysql,postgres,mongodb,redis,docker,kubernetes,terraform,ansible,aws,azure,gcp,linux,ubuntu,debian,kali,git,github,gitlab,jenkins,prometheus,grafana,unreal,blender,unity&perline=8" alt="Professional Tech Stack"/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Engineering-9932CC?style=flat-square" alt="ai"/>
-  <img src="https://img.shields.io/badge/Data-Analysis-8A2BE2?style=flat-square" alt="data analysis"/>
-  <img src="https://img.shields.io/badge/Cyber-Security-BF00FF?style=flat-square" alt="cyber"/>
-  <img src="https://img.shields.io/badge/UI%2FUX-Dev%20Ops-8A2BE2?style=flat-square" alt="uiux"/>
-  <img src="https://img.shields.io/badge/Game-Development-BF00FF?style=flat-square" alt="game"/>
-</p>
-
-<br/>
-<img width="100%" src="assets/wave-divider.svg" alt="divider"/>
-
-## <a id="dashboard"></a>GitHub Stats
-
-<p align="center">
-  <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GOUTAM-op&theme=aura" alt="stats"/>
-   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GOUTAM-op&theme=tokyonight&utcOffset=5.5" alt="productive time"/>
- </p>  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GOUTAM-op&theme=react-dark&color=bf00ff&line=bf00ff&point=bf00ff&area=true&hide_border=true" alt="activity graph"/>
-  
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GOUTAM-op&theme=aura"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GOUTAM-op&theme=aura"/>
-</p>
-
 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GOUTAM-op&show_icons=true&theme=radical&hide_border=true&bg_color=04050f&title_color=00E5FF&icon_color=FF2FB2&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOUTAM-op&layout=compact&theme=radical&hide_border=true&bg_color=04050f&title_color=00E5FF&text_color=c9d1d9" width="35%"/>
+<img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GOUTAM-op&show_icons=true&theme=radical&hide_border=true&bg_color=04050f&title_color=00E5FF&icon_color=FF2FB2&text_color=c9d1d9" width="49%"" alt="stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GOUTAM-op&layout=compact&theme=radical&hide_border=true&bg_color=04050f&title_color=00E5FF&text_color=c9d1d9" width="35%"/>
 </div>
 
 <div align="center">
@@ -140,23 +102,16 @@ I enjoy building high-performance web systems, AI-powered applications, and cybe
 </div>
 
 <br/>
-
-## 🐍 Contribution Snake
-
-Generated automatically once a day by the GitHub Action in `.github/workflows/snake.yml` (see setup guide).
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/GOUTAM-op/GOUTAM-op/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</div>
-
-<br/>
 <img width="100%" src="assets/wave-divider.svg" alt="divider"/>
 
-## 🏆 Trophies
+### 👾 Pacman Game
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GOUTAM-op&theme=radical&no-frame=true&row=1&column=6&margin-w=8" width="95%"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pavithran-P12/ReadmePacman/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pavithran-P12/ReadmePacman/output/pacman-contribution-graph.svg">
+  <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/Pavithran-P12/ReadmePacman/output/pacman-contribution-graph.svg">
+</picture>
+
 
 <br/>
 <img width="100%" src="assets/wave-divider.svg" alt="divider"/>
@@ -171,9 +126,9 @@ Generated automatically once a day by the GitHub Action in `.github/workflows/sn
 
 <div align="center">
 
-[AI-CareerGuidance](https://github.com/GOUTAM-op/AI-CareerGuidance) · [Password-Testing](https://github.com/GOUTAM-op/Password-Testing) · [E-Learning-Platform](https://github.com/GOUTAM-op/E-Learning-Platform)
+[AI-CareerGuidance](https://github.com/GOUTAM-op/AI-CareerGuidance) ·|· [Password-Testing](https://github.com/GOUTAM-op/Password-Testing) ·|· [E-Learning-Platform](https://github.com/GOUTAM-op/E-Learning-Platform)
 
-<sub>Update these three links to match your exact repository URLs.</sub>
+
 </div>
 
 <br/>
