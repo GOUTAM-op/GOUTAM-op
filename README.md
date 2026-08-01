@@ -87,7 +87,8 @@
 
 I enjoy building high-performance web systems, AI-powered applications, and cybersecurity tools that solve real-world problems.
 
----
+<br/>
+<img width="100%" src="assets/wave-divider.svg" alt="divider"/>
 
 ## <a id="stack"></a>Stack
 
@@ -101,6 +102,9 @@ I enjoy building high-performance web systems, AI-powered applications, and cybe
   <img src="https://img.shields.io/badge/UI%2FUX-Dev%20Ops-8A2BE2?style=flat-square" alt="uiux"/>
   <img src="https://img.shields.io/badge/Game-Development-BF00FF?style=flat-square" alt="game"/>
 </p>
+
+<br/>
+<img width="100%" src="assets/wave-divider.svg" alt="divider"/>
 
 ## <a id="dashboard"></a>GitHub Stats
 
