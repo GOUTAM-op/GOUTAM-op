@@ -83,6 +83,43 @@
 <br/>
 <img width="100%" src="assets/wave-divider.svg" alt="divider"/>
 
+## ⚡ Fun Fact
+
+I enjoy building high-performance web systems, AI-powered applications, and cybersecurity tools that solve real-world problems.
+
+---
+
+## <a id="stack"></a>Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,r,js,ts,java,cpp,c,bash,powershell,go,rust,html,css,react,nodejs,nextjs,flask,django,fastapi,tensorflow,pytorch,opencv,mysql,postgres,mongodb,redis,docker,kubernetes,terraform,ansible,aws,azure,gcp,linux,ubuntu,debian,kali,git,github,gitlab,jenkins,prometheus,grafana,unreal,blender,unity&perline=8" alt="Professional Tech Stack"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Engineering-9932CC?style=flat-square" alt="ai"/>
+  <img src="https://img.shields.io/badge/Data-Analysis-8A2BE2?style=flat-square" alt="data analysis"/>
+  <img src="https://img.shields.io/badge/Cyber-Security-BF00FF?style=flat-square" alt="cyber"/>
+  <img src="https://img.shields.io/badge/UI%2FUX-Dev%20Ops-8A2BE2?style=flat-square" alt="uiux"/>
+  <img src="https://img.shields.io/badge/Game-Development-BF00FF?style=flat-square" alt="game"/>
+</p>
+
+## <a id="dashboard"></a>GitHub Stats
+
+<p align="center">
+  <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GOUTAM-op&theme=aura" alt="stats"/>
+   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GOUTAM-op&theme=tokyonight&utcOffset=5.5" alt="productive time"/>
+ </p>  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GOUTAM-op&theme=react-dark&color=bf00ff&line=bf00ff&point=bf00ff&area=true&hide_border=true" alt="activity graph"/>
+  
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GOUTAM-op&theme=aura"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GOUTAM-op&theme=aura"/>
+</p>
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
