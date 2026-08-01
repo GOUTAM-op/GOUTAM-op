@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="assets/hero-banner.svg" alt="Goutam Kaity — animated aurora hero banner"/>
+<img width="100%" src="assets/banner.svg" alt="Goutam Kaity — animated aurora hero banner"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;Building+with+Python+%2B+JavaScript;AI+%2F+ML+Enthusiast;Cybersecurity+Tinkerer;Always+Shipping+Something+New" alt="Typing SVG" />
