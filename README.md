@@ -21,18 +21,9 @@
 
 ## 👋 About Me
 
-```python
-class GoutamKaity:
-    def __init__(self):
-        self.role = "CS Undergraduate @ ARYAN Institute of Engineering and Technology"
-        self.focus = ["Web Development", "AI / Machine Learning", "Cybersecurity"]
-        self.currently_building = "AI-powered tools and full-stack web apps"
-        self.looking_for = "Web Developer / Software Developer Internship"
-        self.location = "Bhubaneswar, Odisha, India"
-
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something!")
-```
+<div align="center">
+<img width="100%" src="assets/about-code-card.svg" alt="Animated Python code card introducing Goutam Kaity"/>
+</div>
 
 - 🎓 B.Tech in Computer Science, ARYAN Institute of Engineering and Technology (2023 – 2027)
 - 💼 Previously: AI Developer Intern @ **Acmegrade**, Web Developer Intern @ **VidyaVistara**
