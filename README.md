@@ -101,17 +101,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GOUTAM-op&theme=react-dark&bg_color=04050f&color=00E5FF&line=FF2FB2&point=ffffff&hide_border=true" width="90%"/>
 </div>
 
-<br/>
-<img width="100%" src="assets/wave-divider.svg" alt="divider"/>
-
-### 👾 Pacman Game
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pavithran-P12/ReadmePacman/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pavithran-P12/ReadmePacman/output/pacman-contribution-graph.svg">
-  <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/Pavithran-P12/ReadmePacman/output/pacman-contribution-graph.svg">
-</picture>
-
 
 <br/>
 <img width="100%" src="assets/wave-divider.svg" alt="divider"/>
@@ -146,6 +135,17 @@
 ## 🌐 Languages
 
 `English` · `Hindi` · `Odia` · `Bengali`
+
+<br/>
+<img width="100%" src="assets/wave-divider.svg" alt="divider"/>
+
+### 👾 Pacman Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pavithran-P12/ReadmePacman/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pavithran-P12/ReadmePacman/output/pacman-contribution-graph.svg">
+  <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/Pavithran-P12/ReadmePacman/output/pacman-contribution-graph.svg">
+</picture>
 
 <br/>
 <img width="100%" src="assets/wave-divider.svg" alt="divider"/>
