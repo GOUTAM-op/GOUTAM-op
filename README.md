@@ -89,8 +89,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GOUTAM-op&show_icons=true&theme=radical&hide_border=true&bg_color=04050f&title_color=00E5FF&icon_color=FF2FB2&text_color=c9d1d9" width="49%"" alt="stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GOUTAM-op&layout=compact&theme=radical&hide_border=true&bg_color=04050f&title_color=00E5FF&text_color=c9d1d9" width="35%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GOUTAM-op&show_icons=true&theme=radical&hide_border=true&bg_color=04050f&title_color=00E5FF&icon_color=FF2FB2&text_color=c9d1d9" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GOUTAM-op&layout=compact&theme=radical&hide_border=true&bg_color=04050f&title_color=00E5FF&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
